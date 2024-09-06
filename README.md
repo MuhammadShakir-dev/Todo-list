@@ -1,7 +1,3 @@
-Got it! Here's the updated `README.md` to include the **images folder** and its usage in the project:
-
----
-
 # To-Do List App
 
 A simple and interactive To-Do List application built using **HTML**, **CSS**, and **JavaScript**. This app helps users to add, check/uncheck, and delete tasks, with the tasks being saved in the browser's local storage.
@@ -24,7 +20,7 @@ A simple and interactive To-Do List application built using **HTML**, **CSS**, a
 4. **Local Storage Persistence**: The app stores all tasks in local storage, ensuring that tasks remain even after the browser is refreshed.
 
 ## Demo
-You can see a live demo of the To-Do List App [here](#). *(Add the link if you deploy the app on GitHub Pages or any other platform)*
+You can see a live demo of the To-Do List App [here](https://todo-list-plum-rho-49.vercel.app/). *(Add the link if you deploy the app on GitHub Pages or any other platform)*
 
 ## Installation
 1. Clone the repository:

@@ -94,7 +94,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(Images/radio.png);
+    background-image: url(images/radio.png);
     background-size: cover;
     background-position:center ;
     top: 18px;
@@ -107,7 +107,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url(Images/yes.png);
+    background-image: url(images/yes.png);
 }
 
 ul li span{
